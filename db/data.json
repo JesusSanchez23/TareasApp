@@ -1,0 +1,27 @@
+[
+  {
+    "id": "2991309a-9d36-491d-936f-ba5b1cd13a43",
+    "desc": "Configurar PrintAdmin",
+    "completadoEn": null
+  },
+  {
+    "id": "ade93306-607d-468e-bb7a-6e64c0a6c58a",
+    "desc": "Crear Feature aplicación MRO",
+    "completadoEn": null
+  },
+  {
+    "id": "b2d578f2-6446-4989-a320-20bed57151a2",
+    "desc": "Actualizar DB app MRO",
+    "completadoEn": null
+  },
+  {
+    "id": "07e6072a-2521-495b-80c5-f9fdf155bec1",
+    "desc": "Subir a producción aplicación MRO",
+    "completadoEn": null
+  },
+  {
+    "id": "6b4a13ee-2cbe-49e2-b77c-71e4fc67aad2",
+    "desc": "Revisar télefonos con GIL 11AM",
+    "completadoEn": null
+  }
+]
